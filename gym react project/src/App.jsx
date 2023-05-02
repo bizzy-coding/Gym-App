@@ -3,11 +3,13 @@ export default function App() {
     <>
     <h1>Gym app</h1>
     <ChooseExercise />
+    <button></button>
     </>
     
   )
 }
 
+// http://localhost:5173/
 
 const exercises = [
   { title: 'squat', id: 1 },
